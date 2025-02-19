@@ -6,7 +6,7 @@
 
 - 💼 Team Lead at [AlphaCRC](https://alphacrc.com/)
 
-- ![image](https://github.com/user-attachments/assets/a62c4b4b-81d5-4e4b-a6f9-30319432d985) Full-Stack developer at [AlphaCRC](https://alphacrc.com/)
+- 👨‍💻 Full-Stack developer at [AlphaCRC](https://alphacrc.com/)
 
 - 📈 Game developer at [McSkill](https://mcskill.net/)
 
